@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaApp</string>
+    <string name="add_new">Add New</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="save_to_do_task">Save To-Do Task</string>
+    <string name="element_text">text</string>
+    <string name="click_to_do_item_to_make_it_finished">Click To-Do item to make it finished!</string>
+</resources>
